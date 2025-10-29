@@ -209,3 +209,6 @@ certs
 /data/sellers.csv
 /data/report.sqlite
 /excel/
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal

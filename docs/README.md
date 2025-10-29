@@ -57,5 +57,6 @@ python3 py/build_report.py --days 90 --out excel/Report2.xlsx --db data/report.s
   - order_items(order_id) — join позиций
 
 Промпты/ИИ
-- Задание и обсуждение требований — этот чат.
+- Анализ технического задания.
+- Оценка времени и сложности.
 - Автогенерация кода: sql/export.sql, py/build_report.py, правка data/generate_data.py.
